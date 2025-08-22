@@ -1,0 +1,62 @@
+{
+  "query": {
+    "country": "Germany",
+    "category": "Beer"
+  },
+  "companies": [
+    {
+      "contact": {
+        "name": "Radeberger Gruppe KG",
+        "linkedin_url": null,
+        "website": "https://www.radeberger-gruppe.de",
+        "email": "info@radeberger-gruppe.de",
+        "phone": "+49 (0)69 - 60 65 - 0",
+        "note": "No LinkedIn company page found; all data from official website and reputable directories."
+      },
+      "info": {
+        "name": "Radeberger Gruppe KG",
+        "headquarters": "Frankfurt am Main, Germany",
+        "size": "Germany’s largest private brewery group; significant national operations",
+        "specialization": "Major producer and distributor of traditional German beer brands; supplies both national and international markets",
+        "company_size": "5000+ employees",
+        "note": "Operates decentralized production, focuses on distribution and brand management; subsidiary of Oetker Group[1]."
+      }
+    },
+    {
+      "contact": {
+        "name": "BraufactuM",
+        "linkedin_url": "https://www.linkedin.com/company/braufactum/",
+        "website": "https://www.braufactum.de/",
+        "email": null,
+        "phone": null,
+        "note": "Company name and website directly verified from LinkedIn official page; no public email or phone listed."
+      },
+      "info": {
+        "name": "Braufactum",
+        "headquarters": "Germany (precise city not listed)",
+        "size": null,
+        "specialization": "Distributor of premium craft beer (own and imported); focus on both German craft and international labels, with nationwide reach",
+        "company_size": null,
+        "note": "Pioneer of craft beer distribution in Germany; imports for foodservice, retail, and on-trade channels[3]."
+      }
+    },
+    {
+      "contact": {
+        "name": "Bierlinie GmbH",
+        "linkedin_url": null,
+        "website": "https://www.bierlinie.de",
+        "email": null,
+        "phone": null,
+        "note": "No official LinkedIn page found; website from DNB and company directories, no direct contact details verified on LinkedIn."
+      },
+      "info": {
+        "name": "Bierlinie",
+        "headquarters": "Berlin, Germany",
+        "size": null,
+        "specialization": "Independent beer importer and distributor for specialty and craft beers; represents over 500 global brands",
+        "company_size": null,
+        "note": "Distributes to bars, shops, and other distributors throughout Germany; strong in import segment (incl. US, Belgian, British beers)[3]."
+      }
+    }
+  ]
+}

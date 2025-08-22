@@ -8,12 +8,16 @@ from langchain.output_parsers import PydanticOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain_perplexity import ChatPerplexity
 
-from utils.utils import create_chat
+from utils import create_chat
 
 
 # TODO:
 # 1) better serialization
 # 2) better class devision
+
+
+# TODO:
+# Rewrite the whole thing
 
 
 from typing import Any, Optional
