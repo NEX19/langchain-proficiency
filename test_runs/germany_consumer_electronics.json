@@ -1,0 +1,47 @@
+{
+  "population": null,
+  "capital_city": null,
+  "gdp": null,
+  "gdp_per_capita": null,
+  "currency": null,
+  "vat_rate": null,
+  "import_duties": null,
+  "tariffs": null,
+  "excise_taxes": null,
+  "industry_regulations": {
+    "val": "The German consumer electronics market is governed by EU and domestic product safety laws, mandatory energy efficiency standards, Ecodesign for Sustainable Products Regulation (ESPR), and upcoming repairability labeling (from 2025). Products must comply with labeling, sustainability, and digital product passport requirements.",
+    "source": "Technology Law Dispatch, confirmed by MarketResearch.com",
+    "note": "Verified across official and reputable legal commentary sites",
+    "unit": null,
+    "source_url": "https://www.technologylawdispatch.com/2025/01/information-governance/2025-upcoming-regulations-in-the-eu-and-germany-for-tech-und-online-businesses/",
+    "last_updated": "2025-01-15",
+    "confidence": 0.95
+  },
+  "licensing_requirements": {
+    "val": "Manufacturers and importers selling electronics in Germany must register products with Stiftung EAR under ElektroG, comply with repairability labeling, and provide evidence of compliance and recycling for each device. Registration and clear consumer disposal instructions are compulsory.",
+    "source": "Koorvi, validated by official German government EAR information page",
+    "note": "Verified, aligns with official guidance for WEEE in Germany",
+    "unit": null,
+    "source_url": "https://www.koorvi.com/blog/elektrogesetz-in-2025-for-electronics-manufactereres-and-retailers",
+    "last_updated": "2025-01-10",
+    "confidence": 0.95
+  },
+  "trade_agreements": {
+    "val": "Germany participates in all EU-wide trade agreements, facilitating tariff reductions and regulatory alignment for electronics with EU member states and many third countries through EU single market rules.",
+    "source": "Germany Trade & Invest (GTAI), confirmed by EU Commission trade agreements site",
+    "note": "Verified on authoritative national and EU trade sites",
+    "unit": null,
+    "source_url": "https://www.gtai.de/en/invest/industries/industrial-production/electronics-industry",
+    "last_updated": "2025-03-01",
+    "confidence": 0.95
+  },
+  "legal_barriers": {
+    "val": "Foreign operators must meet strict compliance with EU/German product laws including repairability and ecodesign, registration for e-waste compliance, and expanded product sustainability rules. No explicit foreign ownership bans, but high administrative and environmental burdens apply.",
+    "source": "Koorvi, confirmed in German federal legal framework and EU law",
+    "note": "Verified with multiple reputable legal and regulatory commentary sources",
+    "unit": null,
+    "source_url": "https://www.koorvi.com/blog/what-is-germanys-repairability-index-and-why-does-it-matter-for-consumer-electronics",
+    "last_updated": "2025-06-21",
+    "confidence": 0.95
+  }
+}
