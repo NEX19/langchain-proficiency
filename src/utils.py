@@ -54,7 +54,7 @@ class ValueWithSource(BaseModel):
     )
 
 
-def create_agent(instructions: str, output_type: BaseModel, tools: list = []):
+def create_agent(instructions: str, output_type: BaseModel | str = str, tools: list = []):
     model = OpenAIChatModel(
         'openai/gpt-4o',
         provider=OpenRouterProvider(

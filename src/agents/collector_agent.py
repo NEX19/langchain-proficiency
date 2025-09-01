@@ -11,10 +11,13 @@ class CollectorAgent:
     def __init__(self,
                  data_model_cls: Type[BaseModel],
                  country: str,
-                 category: str):
+                 category: str,
+                 agent_name: str = "agent_name"):
         self.data_model_cls = data_model_cls
         self.country = country
         self.category = category
+
+        self._agent_name = agent_name
 
         retrieve_sys = load_markdown_prompt(
             data_model_cls.retrieve_prompt_path)
@@ -50,7 +53,7 @@ class CollectorAgent:
         )
 
     async def _retrieve(self) -> Any:
-        print(f"starting retrieve for {self.country} {self.category}")
+        print(f"starting retrieve for {self._agent_name}")
 
         prompt = self._retrieve_user_prompt.format(
             category=self.category, country=self.country)
@@ -59,7 +62,7 @@ class CollectorAgent:
         return res.output
 
     async def _consolidate(self, raw_data: Any) -> Any:
-        print(f"starting consolidate for {self.country} {self.category}")
+        print(f"starting consolidate for {self._agent_name}")
 
         # TODO better type checks between nodes pass
 

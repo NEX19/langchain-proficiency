@@ -1,0 +1,241 @@
+{
+  "companies": [
+    {
+      "name": "Yandex N.V.",
+      "linkedin_name": null,
+      "headquarters": "Moscow, Russia",
+      "size": "5000+ employees",
+      "specialization": "Internet services and products; operates the largest Russian search engine",
+      "linkedin_url": "https://www.linkedin.com/company/yandex",
+      "website": "https://www.yandex.com",
+      "email": null,
+      "phone": null,
+      "note": "Yandex is the dominant search engine in Russia, analogous to Google in many other countries. It is involved in a broad array of tech sectors beyond search. Renamed to Nebius Group."
+    },
+    {
+      "name": "VK (formerly Mail.ru Group)",
+      "linkedin_name": null,
+      "headquarters": "Moscow, Russia",
+      "size": "5000+ employees",
+      "specialization": "Internet services provider; includes a search engine optimized for Russian content",
+      "linkedin_url": "https://www.linkedin.com/company/mailru-group",
+      "website": "https://mail.ru",
+      "email": null,
+      "phone": null,
+      "note": "Mail.ru rebranded to VK. Recognized as a key player in Russia's internet sector, including search and email services."
+    },
+    {
+      "name": "Google.ru (Alphabet Inc.)",
+      "linkedin_name": null,
+      "headquarters": "Moscow, Russia",
+      "size": "5000+ employees",
+      "specialization": "Search engine services",
+      "linkedin_url": "https://www.linkedin.com/company/google",
+      "website": null,
+      "email": null,
+      "phone": null,
+      "note": "Although globally dominant, Google ranks second to Yandex in the Russian search engine market. Google has closed its business operations in Russia."
+    }
+  ],
+  "overview": {
+    "population": {
+      "val": 143826130,
+      "source": "World Population Review",
+      "note": "Estimate for 2023",
+      "unit": null,
+      "source_url": "https://worldpopulationreview.com/countries/russia",
+      "last_updated": "2023",
+      "confidence": null
+    },
+    "capital_city": {
+      "val": "Moscow",
+      "source": "Wikipedia",
+      "note": null,
+      "unit": null,
+      "source_url": "https://en.wikipedia.org/wiki/Moscow",
+      "last_updated": null,
+      "confidence": null
+    },
+    "gdp": {
+      "val": 2021000000000,
+      "source": "Macrotrends",
+      "note": "2023 nominal GDP",
+      "unit": "USD",
+      "source_url": "https://www.macrotrends.net/global-metrics/countries/rus/russia/gdp-gross-domestic-product",
+      "last_updated": "2023",
+      "confidence": null
+    },
+    "gdp_per_capita": {
+      "val": 13817,
+      "source": "Macrotrends",
+      "note": "2023 estimate",
+      "unit": "USD",
+      "source_url": "https://www.macrotrends.net/global-metrics/countries/rus/russia/gdp-per-capita",
+      "last_updated": "2023",
+      "confidence": null
+    },
+    "currency": {
+      "val": "RUB",
+      "source": "Wikipedia",
+      "note": "Russian Ruble",
+      "unit": null,
+      "source_url": "https://en.wikipedia.org/wiki/Russian_ruble",
+      "last_updated": null,
+      "confidence": null
+    },
+    "vat_rate": {
+      "val": 20,
+      "source": "Avalara",
+      "note": "Standard VAT rate.",
+      "unit": "%",
+      "source_url": "https://www.avalara.com/vatlive/en/country-guides/europe/russian/russian-vat-rates.html",
+      "last_updated": null,
+      "confidence": null
+    },
+    "import_duties": {
+      "val": null,
+      "source": "Unknown",
+      "note": null,
+      "unit": null,
+      "source_url": null,
+      "last_updated": null,
+      "confidence": null
+    },
+    "tariffs": {
+      "val": "Increasing duties. 10% to 200% on certain goods.",
+      "source": "Livingston International",
+      "note": "Recent increases on aluminum and derivatives.",
+      "unit": null,
+      "source_url": "https://www.livingstonintl.com/russian-import-duties-to-increase-with-more-export-controls/",
+      "last_updated": "2023-03-10",
+      "confidence": null
+    },
+    "excise_taxes": {
+      "val": "Applied on alcohol, fuel, and tobacco.",
+      "source": "Wikipedia",
+      "note": "Excise taxes include alcohol and fuel.",
+      "unit": null,
+      "source_url": "https://en.wikipedia.org/wiki/Taxation_in_Russia",
+      "last_updated": null,
+      "confidence": null
+    },
+    "industry_regulations": {
+      "val": null,
+      "source": "Unknown",
+      "note": null,
+      "unit": null,
+      "source_url": null,
+      "last_updated": null,
+      "confidence": null
+    },
+    "licensing_requirements": {
+      "val": null,
+      "source": "Unknown",
+      "note": null,
+      "unit": null,
+      "source_url": null,
+      "last_updated": null,
+      "confidence": null
+    },
+    "trade_agreements": {
+      "val": "Member of WTO since 2012",
+      "source": "WTO",
+      "note": "Participation in WTO multilateral rules",
+      "unit": null,
+      "source_url": "https://wto.org/russia",
+      "last_updated": "2012",
+      "confidence": null
+    },
+    "legal_barriers": {
+      "val": "Corruption as a business entry barrier.",
+      "source": "IMF",
+      "note": "Widespread corruption impacts business entry.",
+      "unit": null,
+      "source_url": "https://www.imf.org/external/pubs/ft/fandd/2001/06/broadman.htm",
+      "last_updated": null,
+      "confidence": null
+    }
+  },
+  "trends": {
+    "market_size_latest": {
+      "val": 63.4,
+      "source": "Yandex, Statista",
+      "note": "Yandex's market share in the Russian search market in 2023.",
+      "unit": "%",
+      "source_url": "https://searchendurance.com/yandex-statistics/",
+      "last_updated": "2023",
+      "confidence": null
+    },
+    "market_size_breakdown": [
+      {
+        "val": "Yandex",
+        "source": "StatCounter",
+        "note": "Yandex's market share in Russia as of Dec 2023.",
+        "unit": "%",
+        "source_url": "https://www.stanventures.com/blog/top-search-engines-list/",
+        "last_updated": "2023-12-01",
+        "confidence": null
+      },
+      {
+        "val": "Google",
+        "source": "StatCounter",
+        "note": "Google's search share in Russia in Dec 2023.",
+        "unit": "%",
+        "source_url": "https://www.stanventures.com/blog/top-search-engines-list/",
+        "last_updated": "2023-12-01",
+        "confidence": null
+      }
+    ],
+    "historical_trends": [
+      {
+        "val": 61.9,
+        "source": "Yandex",
+        "note": "Yandex's market share in 2022.",
+        "unit": "%",
+        "source_url": "https://searchendurance.com/yandex-statistics/",
+        "last_updated": "2022",
+        "confidence": null
+      }
+    ],
+    "forecast_trends": null,
+    "cagr_summary": null,
+    "consumer_behavior_insights": null,
+    "distribution_channel_shares": null,
+    "pricing_trends_and_elasticity": null,
+    "import_export_data": null,
+    "seasonality_and_cyclicality": null,
+    "major_competitors_and_shares": [
+      {
+        "val": "Yandex",
+        "source": "StatCounter",
+        "note": "Leading search engine in Russia with dominant market share.",
+        "unit": null,
+        "source_url": "https://www.stanventures.com/blog/top-search-engines-list/",
+        "last_updated": "2023-12-01",
+        "confidence": null
+      },
+      {
+        "val": "Google",
+        "source": "StatCounter",
+        "note": "Second largest search engine in Russia after Yandex.",
+        "unit": null,
+        "source_url": "https://www.stanventures.com/blog/top-search-engines-list/",
+        "last_updated": "2023-12-01",
+        "confidence": null
+      }
+    ],
+    "key_challenges": [
+      {
+        "val": "Geopolitical and regulatory constraints",
+        "source": "Wikipedia",
+        "note": "Fines imposed on Yandex for refusal to share user information.",
+        "unit": null,
+        "source_url": "https://en.wikipedia.org/wiki/Yandex",
+        "last_updated": "2023-06-01",
+        "confidence": null
+      }
+    ],
+    "key_opportunities": null,
+    "analyst_notes": null
+  }
+}
